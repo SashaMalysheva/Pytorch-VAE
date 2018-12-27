@@ -1,7 +1,7 @@
 # Pytorch-VAE
 This is an implementation of the VAE (Variational Autoencoder) for Cifar10
 
-You can download dataset here -- https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving
+You can read about dataset here -- [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Example
 
