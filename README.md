@@ -56,3 +56,7 @@ It will convert imgs from срщщыут dataset
  [--resume] [--checkpoint-dir CHECKPOINT_DIR]
  [--sample-dir SAMPLE_DIR] [--no-gpus]
 ```
+
+
+### VAE  
+PyTorch implementation of [Auto-Encoding Variational Bayes, arxiv:1312.6114](https://arxiv.org/abs/1312.6114)
