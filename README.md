@@ -9,9 +9,8 @@ All images are taken from the test set. Left row is the original image. Right ro
 
 Original                      |  Reconstruction
 :-------------------------:|:-------------------------:
-![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/1.jpg)  |  ![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/1.jpg)
-![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/2.jpg) | ![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/2.jpg)
-![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/3.jpg) | ![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/3.jpg)
+![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/1.jpg)  |  ![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/1-1.jpg)
+![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/3.jpg) | ![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/3-1.jpg)
 
 
 ## Setup
