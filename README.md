@@ -9,8 +9,9 @@ All images are taken from the test set. Left row is the original image. Right ro
 
 Original                      |  Reconstruction
 :-------------------------:|:-------------------------:
-![](https://github.com/SashaMalysheva/VKHack2018/blob/master/img/photo.jpg)  |  ![](https://github.com/SashaMalysheva/VKHack2018/blob/master/img/ans_photo.jpg)
-![](https://github.com/SashaMalysheva/VKHack2018/blob/master/img/photo1.jpg) | ![](https://github.com/SashaMalysheva/VKHack2018/blob/master/img/ans1_photo.jpg)
+![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/1.jpg)  |  ![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/1.jpg)
+![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/2.jpg) | ![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/2.jpg)
+![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/3.jpg) | ![](https://github.com/SashaMalysheva/Pytorch-VAE/blob/master/data/3.jpg)
 
 
 ## Setup
