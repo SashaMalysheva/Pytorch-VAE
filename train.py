@@ -62,16 +62,16 @@ def train_model(model, dataset, epochs=10,
                 trained=batch_index * len(x),
                 total=len(data_loader.dataset),
                 progress=(100. * batch_index / len(data_loader)),
-                total_loss=total_loss.data[0],
-                reconstruction_loss=reconstruction_loss.data[0],
-                kl_divergence_loss=kl_divergence_loss.data[0],
+                total_loss=total_loss.data,
+                reconstruction_loss=reconstruction_loss.data,
+                kl_divergence_loss=kl_divergence_loss.data,
             ))
 
             if iteration % loss_log_interval == 0:
                 losses = [
-                    reconstruction_loss.data[0],
-                    kl_divergence_loss.data[0],
-                    total_loss.data[0]
+                    reconstruction_loss.data,
+                    kl_divergence_loss.data,
+                    total_loss.data
                 ]
                 names = ['reconstruction', 'kl divergence', 'total']
                 visual.visualize_scalars(
